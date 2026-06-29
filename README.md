@@ -6,12 +6,6 @@
 
 </div>
 
-
-<details>
-  <summary>View Write-up</summary>
-
-## The Wired Writeup 
-
 ## Challenge Info
 
 * Name: The Wired
@@ -21,6 +15,13 @@
 ## Goal
 
 Authenticate into The Wired by providing the correct password.
+
+---
+
+<details>
+  <summary>View Write-up</summary>
+
+## The Wired Writeup 
 
 ## Initial Analysis
 
